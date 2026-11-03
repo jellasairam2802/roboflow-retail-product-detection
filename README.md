@@ -1,5 +1,5 @@
 # Retail product detection with Roboflow
-
+![Dashboard](dashboard.png)
 I trained an RF-DETR (Small) object detection model in Roboflow on 200 labeled images of 15 snack and drink products, then ran it on 30 images and analyzed the detections in Python.
 
 ## Model results (16-image test set)
